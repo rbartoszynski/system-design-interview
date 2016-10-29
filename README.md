@@ -1,5 +1,8 @@
 [![logo](imgs/systemcycle.png)](https://github.com/checkcheckzz/system-design-interview)
 
+> rbartoszynski's additions:
+- https://www.facebook.com/note.php?note_id=39391378919
+
 > How to prepare system design questions for IT company
 
 System design is a very broad topic. Even a software engineer with many years of working experience at top IT company may not be an expert
