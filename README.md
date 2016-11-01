@@ -1,5 +1,6 @@
 > rbartoszynski's additions:
 * https://www.facebook.com/note.php?note_id=39391378919
+* http://horicky.blogspot.com/2010/08/designing-algorithmis-for-map-reduce.html
 
 [![logo](imgs/systemcycle.png)](https://github.com/checkcheckzz/system-design-interview)
 
