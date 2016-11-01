@@ -1,10 +1,15 @@
 > rbartoszynski's additions TODO queue
 * https://docs.oracle.com/cd/E15357_01/coh.360/e15723/cache_rtwtwbra.htm#COHDG5181
 * https://www.facebook.com/note.php?note_id=39391378919
+* http://lethain.com/lessons-from-developing-software-oriented-architectures/
+* http://lethain.com/digg-v4-architecture-process/
+* http://lethain.com/building-a-software-deployment-pipeline/
+* http://lethain.com/overview-of-single-vs-multi-server-architecture/
 * http://horicky.blogspot.com/2010/08/designing-algorithmis-for-map-reduce.html
 * http://horicky.blogspot.com/2010/10/scalable-system-design-patterns.html
 * http://horicky.blogspot.com/2009/11/nosql-patterns.html
 * http://horicky.blogspot.com/2010/10/bigtable-model-with-cassandra-and-hbase.html
+
 
 [![logo](imgs/systemcycle.png)](https://github.com/checkcheckzz/system-design-interview)
 
