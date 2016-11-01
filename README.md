@@ -1,6 +1,9 @@
-> rbartoszynski's additions:
+> rbartoszynski's additions TODO queue
 * https://www.facebook.com/note.php?note_id=39391378919
 * http://horicky.blogspot.com/2010/08/designing-algorithmis-for-map-reduce.html
+* http://horicky.blogspot.com/2010/10/scalable-system-design-patterns.html
+* http://horicky.blogspot.com/2009/11/nosql-patterns.html
+* http://horicky.blogspot.com/2010/10/bigtable-model-with-cassandra-and-hbase.html
 
 [![logo](imgs/systemcycle.png)](https://github.com/checkcheckzz/system-design-interview)
 
