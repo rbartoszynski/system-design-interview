@@ -1,4 +1,5 @@
 > rbartoszynski's additions TODO queue
+* https://docs.oracle.com/cd/E15357_01/coh.360/e15723/cache_rtwtwbra.htm#COHDG5181
 * https://www.facebook.com/note.php?note_id=39391378919
 * http://horicky.blogspot.com/2010/08/designing-algorithmis-for-map-reduce.html
 * http://horicky.blogspot.com/2010/10/scalable-system-design-patterns.html
