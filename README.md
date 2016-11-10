@@ -1,4 +1,5 @@
 > rbartoszynski's additions TODO queue
+* https://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis
 * https://muut.com/blog/technology/redis-as-primary-datastore-wtf.html
 * DONE http://redis.io/topics/data-types-intro
 * https://docs.oracle.com/cd/E15357_01/coh.360/e15723/cache_rtwtwbra.htm#COHDG5181
