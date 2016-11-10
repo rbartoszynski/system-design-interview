@@ -10,6 +10,7 @@
 * http://horicky.blogspot.com/2010/10/scalable-system-design-patterns.html
 * http://horicky.blogspot.com/2009/11/nosql-patterns.html
 * http://horicky.blogspot.com/2010/10/bigtable-model-with-cassandra-and-hbase.html
+* http://stackoverflow.com/questions/5400163/when-to-redis-when-to-mongodb
 
 
 [![logo](imgs/systemcycle.png)](https://github.com/checkcheckzz/system-design-interview)
