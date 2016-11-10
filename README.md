@@ -1,5 +1,6 @@
 > rbartoszynski's additions TODO queue
-* http://redis.io/topics/data-types-intro
+* https://muut.com/blog/technology/redis-as-primary-datastore-wtf.html
+* DONE http://redis.io/topics/data-types-intro
 * https://docs.oracle.com/cd/E15357_01/coh.360/e15723/cache_rtwtwbra.htm#COHDG5181
 * https://www.facebook.com/note.php?note_id=39391378919
 * http://lethain.com/lessons-from-developing-software-oriented-architectures/
