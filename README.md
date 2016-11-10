@@ -1,6 +1,6 @@
 > rbartoszynski's additions TODO queue
 * https://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis
-* https://muut.com/blog/technology/redis-as-primary-datastore-wtf.html
+* DONE https://muut.com/blog/technology/redis-as-primary-datastore-wtf.html
 * DONE http://redis.io/topics/data-types-intro
 * https://docs.oracle.com/cd/E15357_01/coh.360/e15723/cache_rtwtwbra.htm#COHDG5181
 * https://www.facebook.com/note.php?note_id=39391378919
@@ -12,7 +12,7 @@
 * http://horicky.blogspot.com/2010/10/scalable-system-design-patterns.html
 * http://horicky.blogspot.com/2009/11/nosql-patterns.html
 * http://horicky.blogspot.com/2010/10/bigtable-model-with-cassandra-and-hbase.html
-* http://stackoverflow.com/questions/5400163/when-to-redis-when-to-mongodb
+* DONE http://stackoverflow.com/questions/5400163/when-to-redis-when-to-mongodb
 
 
 [![logo](imgs/systemcycle.png)](https://github.com/checkcheckzz/system-design-interview)
