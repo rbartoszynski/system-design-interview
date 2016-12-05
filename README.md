@@ -1,5 +1,6 @@
 > rbartoszynski's additions TODO queue
 * https://github.com/huytd/agar.io-clone/wiki/Game-Architecture (how a slither.io-like game works)
+* http://stackoverflow.com/questions/4094350/good-beginners-tutorial-to-socket-io
 * http://stackoverflow.com/research/developer-survey-2016
 * https://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis
 * DONE https://muut.com/blog/technology/redis-as-primary-datastore-wtf.html
