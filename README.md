@@ -161,6 +161,8 @@ The following papers/articles/slides can help you to understand the general desi
 
 There are some good references for each question. The references here are slides and articles. 
 
+**MINE(DESIGN A LOCK SERVICE)
+
 **Design a CDN network**  
 Reference:  
 * [Globally Distributed Content Delivery](http://repository.cmu.edu/cgi/viewcontent.cgi?article=2112&context=compsci)
