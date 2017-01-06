@@ -1,4 +1,5 @@
 > rbartoszynski's additions TODO queue
+* http://www.enterpriseintegrationpatterns.com/ramblings/18_starbucks.html
 * DONE https://github.com/huytd/agar.io-clone/wiki/Game-Architecture (how a slither.io-like game works)
 * http://stackoverflow.com/questions/4094350/good-beginners-tutorial-to-socket-io
 * http://stackoverflow.com/research/developer-survey-2016
