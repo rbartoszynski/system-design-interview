@@ -1,4 +1,5 @@
 > rbartoszynski's additions TODO queue
+* https://www.quora.com/How-do-I-prepare-to-answer-design-questions-in-a-technical-interview/answer/Frank-Kelly-1?srid=WLNk
 * http://www.enterpriseintegrationpatterns.com/ramblings/18_starbucks.html
 * DONE https://github.com/huytd/agar.io-clone/wiki/Game-Architecture (how a slither.io-like game works)
 * http://stackoverflow.com/questions/4094350/good-beginners-tutorial-to-socket-io
